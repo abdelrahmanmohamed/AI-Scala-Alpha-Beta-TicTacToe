@@ -1,4 +1,4 @@
-name := "Ai-Scala-Alpha-Beta-TicTacToe"
+name := "AI-Scala-Alpha-Beta-TicTacToe"
 
 version := "1.0"
 
